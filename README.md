@@ -5,7 +5,5 @@
 # Version specific Buglists
 
 - [IE 8](bugs/ie8.md)
-- [IE 9](bugs/ie9.md)
 - [IE 10](bugs/ie10.md)
-- [IE 11](bugs/ie11.md)
 - [All IE versions](bugs/all.md)
