@@ -37,4 +37,4 @@ the json will not be parsed correctly. This is the reason why many libraries cre
 
 #### `:checked` CSS selector not working
 
-In IE8 the `:checked` CSS selector does not work in IE8. But `[checked='checked']` attribute selector does work.
+In IE8 the `:checked` CSS selector does not work in IE8. But `[checked='checked']` attribute selector does work. This however will not work in modern browsers.
